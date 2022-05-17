@@ -1,0 +1,931 @@
+País,Total,Aérea,Marítima,Região,Continente,Ano
+   África do Sul,3545,3012,533,África,África,2006
+   Angola,21662,21606,56,África,África,2006
+   Cabo Verde,2407,2407,0,África,África,2006
+   Nigéria,238,233,5,África,África,2006
+Outros,1900,1783,117,África,África,2006
+   Costa Rica,613,600,13,América Central,América,2006
+   Panamá,314,293,21,América Central,América,2006
+   Porto Rico,345,290,55,América Central,América,2006
+Outros,3191,2363,828,América Central,América,2006
+   Canadá,15305,13828,1477,América do Norte,América,2006
+   Estados Unidos,168656,157880,10776,América do Norte,América,2006
+   México,14270,13972,298,América do Norte,América,2006
+   Argentina,89064,88248,816,América do Sul,América,2006
+   Bolívia,562,557,5,América do Sul,América,2006
+   Chile,16240,16005,235,América do Sul,América,2006
+   Colômbia,3207,3163,44,América do Sul,América,2006
+   Equador,1597,1588,9,América do Sul,América,2006
+   Guiana Francesa,13,0,13,América do Sul,América,2006
+   Paraguai,977,960,17,América do Sul,América,2006
+   Peru,3072,2956,116,América do Sul,América,2006
+   República da Guiana,2,2,0,América do Sul,América,2006
+   Suriname,2,2,0,América do Sul,América,2006
+   Uruguai,5469,5035,434,América do Sul,América,2006
+   Venezuela,3909,3871,38,América do Sul,América,2006
+   China,6886,6833,53,Ásia,Ásia,2006
+   Japão,4586,4425,161,Ásia,Ásia,2006
+   República da Coréia,2281,2106,175,Ásia,Ásia,2006
+Outros,7647,4761,2886,Ásia,Ásia,2006
+   Alemanha,53689,51520,2169,Europa,Europa,2006
+   Áustria,3142,2839,303,Europa,Europa,2006
+   Bélgica,8199,8070,129,Europa,Europa,2006
+   Dinamarca,6660,6360,300,Europa,Europa,2006
+   Espanha,31736,31241,495,Europa,Europa,2006
+   Finlândia,4286,4272,14,Europa,Europa,2006
+   França,82910,82249,661,Europa,Europa,2006
+   Grécia,4710,3645,1065,Europa,Europa,2006
+   Holanda,9453,9054,399,Europa,Europa,2006
+   Hungria,1232,1223,9,Europa,Europa,2006
+   Inglaterra,50095,46158,3937,Europa,Europa,2006
+   Irlanda,2160,2106,54,Europa,Europa,2006
+   Itália,42013,40954,1059,Europa,Europa,2006
+   Noruega,6300,5815,485,Europa,Europa,2006
+   Polônia,2019,1881,138,Europa,Europa,2006
+   Portugal,56606,56400,206,Europa,Europa,2006
+   Suécia,5474,5302,172,Europa,Europa,2006
+   Suíça,12294,11812,482,Europa,Europa,2006
+Outros,16991,13053,3938,Europa,Europa,2006
+   Austrália,6833,6380,453,Oceania,Oceania,2006
+   Nova Zelândia,1448,1327,121,Oceania,Oceania,2006
+   Arábia Saudita,81,81,0,Oriente Médio,Ásia,2006
+   Iraque,18,13,5,Oriente Médio,Ásia,2006
+   Israel,6227,6142,85,Oriente Médio,Ásia,2006
+Outros,1344,1158,186,Oriente Médio,Ásia,2006
+Países não especificados,229,84,145,Desconhecido,Ásia,2006
+África do Sul,1422,979,443,África,África,2007
+Angola,18882,18834,48,África,África,2007
+Cabo Verde,158,158,0,África,África,2007
+Nigéria,177,172,5,África,África,2007
+Outros,1934,1834,100,África,África,2007
+Costa Rica,1280,1269,11,América Central e Caribe,América,2007
+Cuba,0,0,0,América Central e Caribe,América,2007
+Guatemala,0,0,0,América Central e Caribe,América,2007
+Panamá,1314,1294,20,América Central e Caribe,América,2007
+Outros,6964,6215,749,América Central e Caribe,América,2007
+Canadá,10121,8798,1323,América do Norte,América,2007
+Estados Unidos,160731,151023,9708,América do Norte,América,2007
+México,7413,7142,271,América do Norte,América,2007
+Argentina,101643,100892,751,América do Sul,América,2007
+Bolívia,798,793,5,América do Sul,América,2007
+Chile,56147,55947,200,América do Sul,América,2007
+Colômbia,4087,4045,42,América do Sul,América,2007
+Equador,2054,2046,8,América do Sul,América,2007
+Guiana Francesa,47,36,11,América do Sul,América,2007
+Paraguai,2427,2413,14,América do Sul,América,2007
+Peru,4497,4399,98,América do Sul,América,2007
+República da Guiana,0,0,0,América do Sul,América,2007
+Suriname,27,27,0,América do Sul,América,2007
+Uruguai,3251,2893,358,América do Sul,América,2007
+Venezuela,3869,3835,34,América do Sul,América,2007
+China,3233,3189,44,Ásia,Ásia,2007
+índia,0,0,0,Ásia,Ásia,2007
+Israel,4671,4599,72,Ásia,Ásia,2007
+Japão,6415,6269,146,Ásia,Ásia,2007
+República da Coréia,2590,2426,164,Ásia,Ásia,2007
+Outros,8122,5880,2242,Ásia,Ásia,2007
+Alemanha,34337,32604,1733,Europa,Europa,2007
+Áustria,3800,3500,300,Europa,Europa,2007
+Bélgica,5249,5136,113,Europa,Europa,2007
+Dinamarca,4941,4695,246,Europa,Europa,2007
+Espanha,30373,29965,408,Europa,Europa,2007
+Finlândia,2174,2162,12,Europa,Europa,2007
+França,72070,71553,517,Europa,Europa,2007
+Grécia,3231,2399,832,Europa,Europa,2007
+Holanda,9164,8825,339,Europa,Europa,2007
+Hungria,1764,1756,8,Europa,Europa,2007
+Inglaterra,44308,41162,3146,Europa,Europa,2007
+Irlanda,4911,4864,47,Europa,Europa,2007
+Itália,36896,36008,888,Europa,Europa,2007
+Noruega,6576,6185,391,Europa,Europa,2007
+Polônia,2852,2735,117,Europa,Europa,2007
+Portugal,55838,55651,187,Europa,Europa,2007
+República Tcheca,0,0,0,Europa,Europa,2007
+Rússia,0,0,0,Europa,Europa,2007
+Suécia,6160,6001,159,Europa,Europa,2007
+Suíça,10694,10338,356,Europa,Europa,2007
+Outros,14259,11106,3153,Europa,Europa,2007
+Austrália,8320,7939,381,Oceania,Oceania,2007
+Nova Zelândia,2146,2052,94,Oceania,Oceania,2007
+Outros,0,48,0,Oceania,Oceania,2007
+Países não especificados,270,171,99,Desconhecido,Oceania,2007
+África do Sul,1281,1232,49,África,África,2008
+Angola,17957,17957,0,África,África,2008
+Cabo Verde,165,165,0,África,África,2008
+Nigéria,246,246,0,África,África,2008
+Outros,1579,1577,2,África,África,2008
+Costa Rica,1527,1523,4,América Central e Caribe,América,2008
+Cuba,1478,1472,6,América Central e Caribe,América,2008
+Guatemala,1250,1238,12,América Central e Caribe,América,2008
+Panamá,1233,1231,2,América Central e Caribe,América,2008
+Outros,3123,3099,24,América Central e Caribe,América,2008
+Canadá,11531,10204,1327,América do Norte,América,2008
+Estados Unidos,141176,133852,7324,América do Norte,América,2008
+México,7943,7743,200,América do Norte,América,2008
+Argentina,108416,106776,1640,América do Sul,América,2008
+Bolívia,707,697,10,América do Sul,América,2008
+Chile,52268,52114,154,América do Sul,América,2008
+Colômbia,5494,5488,6,América do Sul,América,2008
+Equador,4603,4589,14,América do Sul,América,2008
+Guiana Francesa,0,0,0,América do Sul,América,2008
+Paraguai,2435,2435,0,América do Sul,América,2008
+Peru,5208,5198,10,América do Sul,América,2008
+República da Guiana,41,41,0,América do Sul,América,2008
+Suriname,16,16,0,América do Sul,América,2008
+Uruguai,3418,3410,8,América do Sul,América,2008
+Venezuela,5372,5368,4,América do Sul,América,2008
+China,4534,4526,8,Ásia,Ásia,2008
+índia,2047,2029,18,Ásia,Ásia,2008
+Israel,5176,5145,31,Ásia,Ásia,2008
+Japão,7971,7140,831,Ásia,Ásia,2008
+República da Coréia,2199,2168,31,Ásia,Ásia,2008
+Outros,7601,7409,192,Ásia,Ásia,2008
+Alemanha,34826,34372,454,Europa,Europa,2008
+Áustria,4325,4287,38,Europa,Europa,2008
+Bélgica,5845,5751,94,Europa,Europa,2008
+Dinamarca,5497,5485,12,Europa,Europa,2008
+Espanha,30518,30380,138,Europa,Europa,2008
+Finlândia,2702,2696,6,Europa,Europa,2008
+França,69402,68319,1083,Europa,Europa,2008
+Grécia,2933,2913,20,Europa,Europa,2008
+Holanda,10670,10452,218,Europa,Europa,2008
+Hungria,1849,1842,7,Europa,Europa,2008
+Inglaterra,44449,43508,941,Europa,Europa,2008
+Irlanda,6366,6322,44,Europa,Europa,2008
+Itália,35783,35572,211,Europa,Europa,2008
+Noruega,8367,8325,42,Europa,Europa,2008
+Polônia,3542,3468,74,Europa,Europa,2008
+Portugal,46482,46446,36,Europa,Europa,2008
+República Tcheca,1753,1735,18,Europa,Europa,2008
+Rússia,5343,5272,71,Europa,Europa,2008
+Suécia,8339,8309,30,Europa,Europa,2008
+Suíça,8859,8728,131,Europa,Europa,2008
+Outros,7982,7927,55,Europa,Europa,2008
+Austrália,10023,9604,419,Oceania,Oceania,2008
+Nova Zelândia,2095,2020,75,Oceania,Oceania,2008
+Outros,48,48,0,Oceania,Oceania,2008
+Países não especificados,90,80,10,Desconhecido,Oceania,2008
+África do Sul,1338,1282,56,África,África,2009
+Angola,18501,18501,0,África,África,2009
+Cabo Verde,133,132,1,África,África,2009
+Nigéria,191,191,0,África,África,2009
+Outros,2505,2494,11,África,África,2009
+Costa Rica,2054,2053,1,América Central e Caribe,América,2009
+Cuba,1287,1287,0,América Central e Caribe,América,2009
+Guatemala,1069,1066,3,América Central e Caribe,América,2009
+Panamá,1286,1285,1,América Central e Caribe,América,2009
+Outros,3154,3138,16,América Central e Caribe,América,2009
+Canadá,13692,12570,1122,América do Norte,América,2009
+Estados Unidos,166385,162666,3719,América do Norte,América,2009
+México,9582,9509,73,América do Norte,América,2009
+Argentina,176491,163842,12649,América do Sul,América,2009
+Bolívia,1801,1786,15,América do Sul,América,2009
+Chile,51828,51729,99,América do Sul,América,2009
+Colômbia,8389,8364,25,América do Sul,América,2009
+Equador,7066,7053,13,América do Sul,América,2009
+Guiana Francesa,73,72,1,América do Sul,América,2009
+Paraguai,2434,2427,7,América do Sul,América,2009
+Peru,12121,12108,13,América do Sul,América,2009
+República da Guiana,25,25,0,América do Sul,América,2009
+Suriname,12,12,0,América do Sul,América,2009
+Uruguai,10167,10105,62,América do Sul,América,2009
+Venezuela,10350,10326,24,América do Sul,América,2009
+China,4958,4931,27,Ásia,Ásia,2009
+índia,1427,1419,8,Ásia,Ásia,2009
+Israel,1765,1741,24,Ásia,Ásia,2009
+Japão,7202,6983,219,Ásia,Ásia,2009
+República da Coréia,3921,3905,16,Ásia,Ásia,2009
+Outros,6017,5857,160,Ásia,Ásia,2009
+Alemanha,41208,40428,780,Europa,Europa,2009
+Áustria,4754,4718,36,Europa,Europa,2009
+Bélgica,6725,6708,17,Europa,Europa,2009
+Dinamarca,6803,6790,13,Europa,Europa,2009
+Espanha,28938,28878,60,Europa,Europa,2009
+Finlândia,2948,2945,3,Europa,Europa,2009
+França,71643,71571,72,Europa,Europa,2009
+Grécia,2071,2059,12,Europa,Europa,2009
+Holanda,13125,12982,143,Europa,Europa,2009
+Hungria,1335,1330,5,Europa,Europa,2009
+Inglaterra,54633,52794,1839,Europa,Europa,2009
+Irlanda,5998,5897,101,Europa,Europa,2009
+Itália,38465,38359,106,Europa,Europa,2009
+Noruega,9556,9542,14,Europa,Europa,2009
+Polônia,3730,3716,14,Europa,Europa,2009
+Portugal,39265,39237,28,Europa,Europa,2009
+República Tcheca,1371,1369,2,Europa,Europa,2009
+Rússia,3976,3882,94,Europa,Europa,2009
+Suécia,9398,9376,22,Europa,Europa,2009
+Suíça,11543,11407,136,Europa,Europa,2009
+Outros,8480,8404,76,Europa,Europa,2009
+Austrália,12502,12173,329,Oceania,Oceania,2009
+Nova Zelândia,2899,2868,31,Oceania,Oceania,2009
+Outros,28,27,1,Oceania,Oceania,2009
+Países não especificados,49,38,11,Desconhecido,Oceania,2009
+África do Sul,1901,1515,386,África,África,2010
+Angola,15900,15900,0,África,África,2010
+Cabo Verde,146,146,0,África,África,2010
+Nigéria,468,468,0,África,África,2010
+Outros,3598,3332,266,África,África,2010
+Costa Rica,2135,2125,10,América Central e Caribe,América,2010
+Cuba,1033,1014,19,América Central e Caribe,América,2010
+Guatemala,1218,1191,27,América Central e Caribe,América,2010
+Panamá,1152,1146,6,América Central e Caribe,América,2010
+Outros,3732,3507,225,América Central e Caribe,América,2010
+Canadá,12506,11664,842,América do Norte,América,2010
+Estados Unidos,179385,176096,3289,América do Norte,América,2010
+México,8392,8267,125,América do Norte,América,2010
+Argentina,215252,175038,40214,América do Sul,América,2010
+Bolívia,1055,1012,43,América do Sul,América,2010
+Chile,60830,60357,473,América do Sul,América,2010
+Colômbia,8473,8329,144,América do Sul,América,2010
+Equador,5638,5622,16,América do Sul,América,2010
+Guiana Francesa,1,1,0,América do Sul,América,2010
+Paraguai,4315,4273,42,América do Sul,América,2010
+Peru,12364,12224,140,América do Sul,América,2010
+República da Guiana,31,31,0,América do Sul,América,2010
+Suriname,7,6,1,América do Sul,América,2010
+Uruguai,15182,14353,829,América do Sul,América,2010
+Venezuela,11714,11672,42,América do Sul,América,2010
+China,6780,6707,73,Ásia,Ásia,2010
+índia,3033,2538,495,Ásia,Ásia,2010
+Israel,5711,5651,60,Ásia,Ásia,2010
+Japão,6353,5836,517,Ásia,Ásia,2010
+República da Coréia,2347,2332,15,Ásia,Ásia,2010
+Outros,7214,5578,1636,Ásia,Ásia,2010
+Alemanha,46436,45282,1154,Europa,Europa,2010
+Áustria,5168,5064,104,Europa,Europa,2010
+Bélgica,6921,6823,98,Europa,Europa,2010
+Dinamarca,6092,6065,27,Europa,Europa,2010
+Espanha,35614,35403,211,Europa,Europa,2010
+Finlândia,2664,2659,5,Europa,Europa,2010
+França,62697,62210,487,Europa,Europa,2010
+Grécia,2241,2227,14,Europa,Europa,2010
+Holanda,11703,11424,279,Europa,Europa,2010
+Hungria,1423,1406,17,Europa,Europa,2010
+Inglaterra,59234,57474,1760,Europa,Europa,2010
+Irlanda,5355,5290,65,Europa,Europa,2010
+Itália,37539,36330,1209,Europa,Europa,2010
+Noruega,10046,10034,12,Europa,Europa,2010
+Polônia,3702,3687,15,Europa,Europa,2010
+Portugal,36705,36642,63,Europa,Europa,2010
+República Tcheca,1803,1801,2,Europa,Europa,2010
+Rússia,5549,5432,117,Europa,Europa,2010
+Suécia,8584,8554,30,Europa,Europa,2010
+Suíça,10848,10554,294,Europa,Europa,2010
+Outros,10101,9485,616,Europa,Europa,2010
+Austrália,11354,10943,411,Oceania,Oceania,2010
+Nova Zelândia,2727,2676,51,Oceania,Oceania,2010
+Outros,123,69,54,Oceania,Oceania,2010
+Países não especificados,43,37,6,Desconhecido,Oceania,2010
+África do Sul,1787,1683,104,África,África,2011
+Angola,12681,12681,0,África,África,2011
+Cabo Verde,105,105,0,África,África,2011
+Nigéria,435,435,0,África,África,2011
+Outros,3903,3868,35,África,África,2011
+Costa Rica,2255,2245,10,América Central e Caribe,América,2011
+Cuba,882,875,7,América Central e Caribe,América,2011
+Guatemala,1341,1340,1,América Central e Caribe,América,2011
+Panamá,1268,1257,11,América Central e Caribe,América,2011
+Outros,3606,3580,26,América Central e Caribe,América,2011
+Canadá,14146,12750,1396,América do Norte,América,2011
+Estados Unidos,171029,167241,3788,América do Norte,América,2011
+México,10292,10071,221,América do Norte,América,2011
+Argentina,244056,196000,48056,América do Sul,América,2011
+Bolívia,875,841,34,América do Sul,América,2011
+Chile,68528,67354,1174,América do Sul,América,2011
+Colômbia,12358,12302,56,América do Sul,América,2011
+Equador,5503,5483,20,América do Sul,América,2011
+Guiana Francesa,1,1,0,América do Sul,América,2011
+Paraguai,4510,4428,82,América do Sul,América,2011
+Peru,10305,10200,105,América do Sul,América,2011
+República da Guiana,72,72,0,América do Sul,América,2011
+Suriname,136,135,1,América do Sul,América,2011
+Uruguai,16637,15714,923,América do Sul,América,2011
+Venezuela,11072,11002,70,América do Sul,América,2011
+China,10358,10308,50,Ásia,Ásia,2011
+índia,2989,2975,14,Ásia,Ásia,2011
+Israel,6803,6756,47,Ásia,Ásia,2011
+Japão,7280,7268,12,Ásia,Ásia,2011
+República da Coréia,2918,2898,20,Ásia,Ásia,2011
+Outros,8802,5732,3070,Ásia,Ásia,2011
+Alemanha,44709,43846,863,Europa,Europa,2011
+Áustria,5975,5754,221,Europa,Europa,2011
+Bélgica,7903,7794,109,Europa,Europa,2011
+Dinamarca,6645,6623,22,Europa,Europa,2011
+Espanha,33293,32987,306,Europa,Europa,2011
+Finlândia,3327,3314,13,Europa,Europa,2011
+França,70747,70093,654,Europa,Europa,2011
+Grécia,2015,1991,24,Europa,Europa,2011
+Holanda,12706,12530,176,Europa,Europa,2011
+Hungria,1517,1503,14,Europa,Europa,2011
+Inglaterra,54660,52470,2190,Europa,Europa,2011
+Irlanda,5107,5036,71,Europa,Europa,2011
+Itália,45142,44304,838,Europa,Europa,2011
+Noruega,12459,12408,51,Europa,Europa,2011
+Polônia,4477,4432,45,Europa,Europa,2011
+Portugal,37271,37178,93,Europa,Europa,2011
+República Tcheca,2222,2214,8,Europa,Europa,2011
+Rússia,10102,9896,206,Europa,Europa,2011
+Suécia,9460,9402,58,Europa,Europa,2011
+Suíça,11863,11410,453,Europa,Europa,2011
+Outros,12351,12069,282,Europa,Europa,2011
+Austrália,11412,10960,452,Oceania,Oceania,2011
+Nova Zelândia,2567,2506,61,Oceania,Oceania,2011
+Outros,23,22,1,Oceania,Oceania,2011
+Países não especificados,45,43,2,Desconhecido,Oceania,2011
+África do Sul,2177,2148,29,África,África,2012
+Angola,12541,12541,0,África,África,2012
+Cabo Verde,139,137,2,África,África,2012
+Nigéria,1145,1141,4,África,África,2012
+Outros,6627,6619,8,África,África,2012
+Costa Rica,2429,2420,9,América Central e Caribe,América,2012
+Cuba,956,955,1,América Central e Caribe,América,2012
+Guatemala,1273,1269,4,América Central e Caribe,América,2012
+Panamá,1603,1599,4,América Central e Caribe,América,2012
+Outros,4211,4194,17,América Central e Caribe,América,2012
+Canadá,14980,14301,679,América do Norte,América,2012
+Estados Unidos,162987,159997,2990,América do Norte,América,2012
+México,9963,9763,200,América do Norte,América,2012
+Argentina,277824,255844,21980,América do Sul,América,2012
+Bolívia,897,873,24,América do Sul,América,2012
+Chile,78882,78426,456,América do Sul,América,2012
+Colômbia,20142,20092,50,América do Sul,América,2012
+Equador,5270,5252,18,América do Sul,América,2012
+Guiana Francesa,1,1,0,América do Sul,América,2012
+Paraguai,4041,4006,35,América do Sul,América,2012
+Peru,10757,10716,41,América do Sul,América,2012
+República da Guiana,103,103,0,América do Sul,América,2012
+Suriname,34,34,0,América do Sul,América,2012
+Uruguai,16762,16246,516,América do Sul,América,2012
+Venezuela,11675,11591,84,América do Sul,América,2012
+China,14883,14777,106,Ásia,Ásia,2012
+índia,5497,5486,11,Ásia,Ásia,2012
+Israel,8469,8392,77,Ásia,Ásia,2012
+Japão,9685,9654,31,Ásia,Ásia,2012
+República da Coréia,3865,3853,12,Ásia,Ásia,2012
+Outros,14196,13128,1068,Ásia,Ásia,2012
+Alemanha,54067,53840,227,Europa,Europa,2012
+Áustria,6943,6908,35,Europa,Europa,2012
+Bélgica,8939,8898,41,Europa,Europa,2012
+Dinamarca,6715,6704,11,Europa,Europa,2012
+Espanha,30570,30300,270,Europa,Europa,2012
+Finlândia,3264,3262,2,Europa,Europa,2012
+França,81938,81756,182,Europa,Europa,2012
+Grécia,1815,1805,10,Europa,Europa,2012
+Holanda,17861,17711,150,Europa,Europa,2012
+Hungria,1788,1785,3,Europa,Europa,2012
+Inglaterra,60791,59903,888,Europa,Europa,2012
+Irlanda,5456,5427,29,Europa,Europa,2012
+Itália,50337,50085,252,Europa,Europa,2012
+Noruega,13017,12988,29,Europa,Europa,2012
+Polônia,5888,5873,15,Europa,Europa,2012
+Portugal,37751,37733,18,Europa,Europa,2012
+República Tcheca,2701,2699,2,Europa,Europa,2012
+Rússia,13094,12760,334,Europa,Europa,2012
+Suécia,10245,10192,53,Europa,Europa,2012
+Suíça,12976,12788,188,Europa,Europa,2012
+Outros,15183,15063,120,Europa,Europa,2012
+Austrália,15973,15843,130,Oceania,Oceania,2012
+Nova Zelândia,2662,2632,30,Oceania,Oceania,2012
+Outros,153,152,1,Oceania,Oceania,2012
+Países não especificados,46,45,1,Desconhecido,Oceania,2012
+África do Sul,1580,1560,20,África,África,2013
+Angola,12239,12239,0,África,África,2013
+Cabo Verde,116,116,0,África,África,2013
+Nigéria,991,991,0,África,África,2013
+Outros,6127,6092,35,África,África,2013
+Costa Rica,2851,2847,4,América Central e Caribe,América,2013
+Cuba,1019,1018,1,América Central e Caribe,América,2013
+Guatemala,1637,1637,0,América Central e Caribe,América,2013
+Panamá,2390,2373,17,América Central e Caribe,América,2013
+Outros,5853,5840,13,América Central e Caribe,América,2013
+Canadá,14756,14381,375,América do Norte,América,2013
+Estados Unidos,172613,171124,1489,América do Norte,América,2013
+México,13252,13157,95,América do Norte,América,2013
+Argentina,271971,249305,22666,América do Sul,América,2013
+Bolívia,896,884,12,América do Sul,América,2013
+Chile,80205,80001,204,América do Sul,América,2013
+Colômbia,23650,23563,87,América do Sul,América,2013
+Equador,5234,5230,4,América do Sul,América,2013
+Guiana Francesa,0,0,0,América do Sul,América,2013
+Paraguai,2115,2080,35,América do Sul,América,2013
+Peru,14228,14198,30,América do Sul,América,2013
+República da Guiana,61,61,0,América do Sul,América,2013
+Suriname,40,40,0,América do Sul,América,2013
+Uruguai,20886,20657,229,América do Sul,América,2013
+Venezuela,7934,7887,47,América do Sul,América,2013
+China,13109,13075,34,Ásia,Ásia,2013
+índia,5440,5412,28,Ásia,Ásia,2013
+Israel,8108,8098,10,Ásia,Ásia,2013
+Japão,12125,11219,906,Ásia,Ásia,2013
+República da Coréia,3673,3658,15,Ásia,Ásia,2013
+Outros,14047,13920,127,Ásia,Ásia,2013
+Alemanha,56289,55865,424,Europa,Europa,2013
+Áustria,6442,6414,28,Europa,Europa,2013
+Bélgica,8620,8583,37,Europa,Europa,2013
+Dinamarca,6781,6766,15,Europa,Europa,2013
+Espanha,35311,35135,176,Europa,Europa,2013
+Finlândia,3840,3837,3,Europa,Europa,2013
+França,80580,80478,102,Europa,Europa,2013
+Grécia,2070,2068,2,Europa,Europa,2013
+Holanda,18329,18259,70,Europa,Europa,2013
+Hungria,2139,2135,4,Europa,Europa,2013
+Inglaterra,66907,66447,460,Europa,Europa,2013
+Irlanda,5273,5250,23,Europa,Europa,2013
+Itália,57316,57061,255,Europa,Europa,2013
+Noruega,12585,12515,70,Europa,Europa,2013
+Polônia,7801,7781,20,Europa,Europa,2013
+Portugal,43421,43380,41,Europa,Europa,2013
+República Tcheca,2687,2685,2,Europa,Europa,2013
+Rússia,12119,12072,47,Europa,Europa,2013
+Suécia,10313,10301,12,Europa,Europa,2013
+Suíça,14582,14406,176,Europa,Europa,2013
+Outros,15823,15727,96,Europa,Europa,2013
+Austrália,16777,16492,285,Oceania,Oceania,2013
+Nova Zelândia,2566,2533,33,Oceania,Oceania,2013
+Outros,57,52,5,Oceania,Oceania,2013
+Países não especificados,26,45,1,Desconhecido,Oceania,2013
+África do Sul,2592,2584,8,África,África,2014
+Angola,18689,18689,0,África,África,2014
+Cabo Verde,209,209,0,África,África,2014
+Nigéria,1683,1683,0,África,África,2014
+Outros,9221,9205,16,África,África,2014
+Costa Rica,4086,4082,4,América Central e Caribe,América,2014
+Cuba,927,927,0,América Central e Caribe,América,2014
+Guatemala,3092,3092,0,América Central e Caribe,América,2014
+Panamá,2904,2895,9,América Central e Caribe,América,2014
+Outros,7097,7096,1,América Central e Caribe,América,2014
+Canadá,21951,21653,298,América do Norte,América,2014
+Estados Unidos,236566,234792,1774,América do Norte,América,2014
+México,30561,30223,338,América do Norte,América,2014
+Argentina,284795,264877,19918,América do Sul,América,2014
+Bolívia,1257,1235,22,América do Sul,América,2014
+Chile,104797,104540,257,América do Sul,América,2014
+Colômbia,39411,39195,216,América do Sul,América,2014
+Equador,8679,8679,0,América do Sul,América,2014
+Guiana Francesa,0,0,0,América do Sul,América,2014
+Paraguai,2185,2151,34,América do Sul,América,2014
+Peru,14998,14969,29,América do Sul,América,2014
+República da Guiana,98,98,0,América do Sul,América,2014
+Suriname,18,18,0,América do Sul,América,2014
+Uruguai,18144,17379,765,América do Sul,América,2014
+Venezuela,8678,8652,26,América do Sul,América,2014
+China,16137,16125,12,Ásia,Ásia,2014
+índia,7436,7426,10,Ásia,Ásia,2014
+Israel,14016,14010,6,Ásia,Ásia,2014
+Japão,15180,14571,609,Ásia,Ásia,2014
+República da Coréia,5564,5556,8,Ásia,Ásia,2014
+Outros,25052,24955,97,Ásia,Ásia,2014
+Alemanha,79318,78845,473,Europa,Europa,2014
+Áustria,9322,9229,93,Europa,Europa,2014
+Bélgica,14675,14669,6,Europa,Europa,2014
+Dinamarca,8703,8678,25,Europa,Europa,2014
+Espanha,43292,43118,174,Europa,Europa,2014
+Finlândia,5207,5199,8,Europa,Europa,2014
+França,118242,118042,200,Europa,Europa,2014
+Grécia,3375,3375,0,Europa,Europa,2014
+Holanda,27561,27495,66,Europa,Europa,2014
+Hungria,2569,2561,8,Europa,Europa,2014
+Inglaterra,101704,100839,865,Europa,Europa,2014
+Irlanda,7375,7347,28,Europa,Europa,2014
+Itália,73242,72780,462,Europa,Europa,2014
+Noruega,16661,16642,19,Europa,Europa,2014
+Polônia,10138,10113,25,Europa,Europa,2014
+Portugal,55189,55142,47,Europa,Europa,2014
+República Tcheca,3615,3615,0,Europa,Europa,2014
+Rússia,18920,18845,75,Europa,Europa,2014
+Suécia,16417,16386,31,Europa,Europa,2014
+Suíça,19792,19643,149,Europa,Europa,2014
+Outros,23048,22919,129,Europa,Europa,2014
+Austrália,27678,27477,201,Oceania,Oceania,2014
+Nova Zelândia,5003,5002,1,Oceania,Oceania,2014
+Outros,40,40,0,Oceania,Oceania,2014
+Países não especificados,44,44,0,Desconhecido,Oceania,2014
+África do Sul,1516,1443,73,África,África,2015
+Angola,13139,13139,0,África,África,2015
+Cabo Verde,107,96,11,África,África,2015
+Nigéria,265,265,0,África,África,2015
+Outros,4778,4770,8,África,África,2015
+Costa Rica,2424,2423,1,América Central e Caribe,América,2015
+Cuba,830,830,0,América Central e Caribe,América,2015
+Guatemala,1481,1481,0,América Central e Caribe,América,2015
+Panamá,2735,2732,3,América Central e Caribe,América,2015
+Outros,4640,4633,7,América Central e Caribe,América,2015
+Canadá,18659,18110,549,América do Norte,América,2015
+Estados Unidos,196662,194825,1837,América do Norte,América,2015
+México,15481,15329,152,América do Norte,América,2015
+Argentina,342765,321612,21153,América do Sul,América,2015
+Bolívia,686,674,12,América do Sul,América,2015
+Chile,98073,97517,556,América do Sul,América,2015
+Colômbia,25145,25022,123,América do Sul,América,2015
+Equador,4404,4396,8,América do Sul,América,2015
+Guiana Francesa,0,0,0,América do Sul,América,2015
+Paraguai,3045,3014,31,América do Sul,América,2015
+Peru,13408,13382,26,América do Sul,América,2015
+República da Guiana,102,102,0,América do Sul,América,2015
+Suriname,45,45,0,América do Sul,América,2015
+Uruguai,43322,41258,2064,América do Sul,América,2015
+Venezuela,9446,9432,14,América do Sul,América,2015
+China,10688,10642,46,Ásia,Ásia,2015
+índia,4522,4501,21,Ásia,Ásia,2015
+Israel,8274,8269,5,Ásia,Ásia,2015
+Japão,8689,7859,830,Ásia,Ásia,2015
+República da Coréia,3632,3625,7,Ásia,Ásia,2015
+Outros,14337,14214,123,Ásia,Ásia,2015
+Alemanha,53297,52747,550,Europa,Europa,2015
+Áustria,7020,6909,111,Europa,Europa,2015
+Bélgica,8646,8578,68,Europa,Europa,2015
+Dinamarca,7454,7433,21,Europa,Europa,2015
+Espanha,35545,35341,204,Europa,Europa,2015
+Finlândia,3406,3401,5,Europa,Europa,2015
+França,97710,97397,313,Europa,Europa,2015
+Grécia,2548,2546,2,Europa,Europa,2015
+Holanda,20652,20508,144,Europa,Europa,2015
+Hungria,2396,2391,5,Europa,Europa,2015
+Inglaterra,76351,75473,878,Europa,Europa,2015
+Irlanda,5293,5267,26,Europa,Europa,2015
+Itália,57813,57223,590,Europa,Europa,2015
+Noruega,11254,11157,97,Europa,Europa,2015
+Polônia,9024,8996,28,Europa,Europa,2015
+Portugal,47677,47628,49,Europa,Europa,2015
+República Tcheca,3252,3247,5,Europa,Europa,2015
+Rússia,11647,11600,47,Europa,Europa,2015
+Suécia,10827,10792,35,Europa,Europa,2015
+Suíça,15444,15216,228,Europa,Europa,2015
+Outros,17735,17662,73,Europa,Europa,2015
+Austrália,14562,14373,189,Oceania,Oceania,2015
+Nova Zelândia,3067,3018,49,Oceania,Oceania,2015
+Outros,38,37,1,Oceania,Oceania,2015
+Países não especificados,20,19,1,Desconhecido,Oceania,2015
+África do Sul,1675,1660,15,África,África,2016
+Angola,6497,6497,0,África,África,2016
+Cabo Verde,137,137,0,África,África,2016
+Egito,1071,1069,2,África,África,2016
+Gana,120,120,0,África,África,2016
+Marrocos,2426,2426,0,África,África,2016
+Moçambique,118,118,0,África,África,2016
+Nigéria,391,391,0,África,África,2016
+Quênia,564,564,0,África,África,2016
+Tunísia,1082,1082,0,África,África,2016
+Outros,2632,2628,4,África,África,2016
+Costa Rica,2670,2662,8,América Central e Caribe,América,2016
+Cuba,1631,1631,0,América Central e Caribe,América,2016
+El Salvador,1074,1074,0,América Central e Caribe,América,2016
+Guatemala,1682,1682,0,América Central e Caribe,América,2016
+Haiti,181,181,0,América Central e Caribe,América,2016
+Honduras,736,734,2,América Central e Caribe,América,2016
+Nicarágua,297,297,0,América Central e Caribe,América,2016
+Panamá,2568,2568,0,América Central e Caribe,América,2016
+República Dominicana,1145,1140,5,América Central e Caribe,América,2016
+Trinidad e Tobago,429,428,1,América Central e Caribe,América,2016
+Outros,1402,1401,1,América Central e Caribe,América,2016
+Canadá,21844,21589,255,América do Norte,América,2016
+Estados Unidos,221445,220071,1374,América do Norte,América,2016
+México,13615,13386,229,América do Norte,América,2016
+Argentina,377677,369061,8616,América do Sul,América,2016
+Bolívia,923,917,6,América do Sul,América,2016
+Chile,120285,120083,202,América do Sul,América,2016
+Colômbia,26736,26699,37,América do Sul,América,2016
+Equador,5186,5177,9,América do Sul,América,2016
+Guiana,50,50,0,América do Sul,América,2016
+Guiana Francesa,0,0,0,América do Sul,América,2016
+Paraguai,3995,3984,11,América do Sul,América,2016
+Peru,14375,14351,24,América do Sul,América,2016
+Suriname,57,57,0,América do Sul,América,2016
+Uruguai,41943,41627,316,América do Sul,América,2016
+Venezuela,6553,6539,14,América do Sul,América,2016
+Arábia Saudita,424,424,0,Ásia,Ásia,2016
+Bangladesh,144,144,0,Ásia,Ásia,2016
+China,14382,14330,52,Ásia,Ásia,2016
+"China, Hong Kong",1308,1306,2,Ásia,Ásia,2016
+Cingapura,1153,1147,6,Ásia,Ásia,2016
+Filipinas,1664,1660,4,Ásia,Ásia,2016
+Índia,3723,3704,19,Ásia,Ásia,2016
+Indonésia,575,575,0,Ásia,Ásia,2016
+Irã,1302,1301,1,Ásia,Ásia,2016
+Israel,7748,7701,47,Ásia,Ásia,2016
+Japão,23262,22449,813,Ásia,Ásia,2016
+Líbano,630,630,0,Ásia,Ásia,2016
+Malásia,1579,1575,4,Ásia,Ásia,2016
+Paquistão,416,416,0,Ásia,Ásia,2016
+República da Coreia,5257,5245,12,Ásia,Ásia,2016
+Síria,139,139,0,Ásia,Ásia,2016
+Tailândia,1510,1352,158,Ásia,Ásia,2016
+Taiwan,1657,1656,1,Ásia,Ásia,2016
+Outros,3915,3912,3,Ásia,Ásia,2016
+Alemanha,58014,57653,361,Europa,Europa,2016
+Áustria,6898,6821,77,Europa,Europa,2016
+Bélgica,10958,10925,33,Europa,Europa,2016
+Bulgária,1514,1512,2,Europa,Europa,2016
+Croácia,1619,1619,0,Europa,Europa,2016
+Dinamarca,8605,8523,82,Europa,Europa,2016
+Eslováquia,1548,1548,0,Europa,Europa,2016
+Eslovênia,1114,1114,0,Europa,Europa,2016
+Espanha,33068,32861,207,Europa,Europa,2016
+Estônia,837,836,1,Europa,Europa,2016
+Finlândia,4100,4099,1,Europa,Europa,2016
+França,85250,84960,290,Europa,Europa,2016
+Grécia,3111,3101,10,Europa,Europa,2016
+Holanda,24514,24454,60,Europa,Europa,2016
+Hungria,3390,3385,5,Europa,Europa,2016
+Irlanda,5397,5375,22,Europa,Europa,2016
+Itália,45307,44806,501,Europa,Europa,2016
+Letônia,798,797,1,Europa,Europa,2016
+Lituânia,1288,1286,2,Europa,Europa,2016
+Luxemburgo,597,594,3,Europa,Europa,2016
+Noruega,9146,9138,8,Europa,Europa,2016
+Polônia,8244,8239,5,Europa,Europa,2016
+Portugal,44451,44430,21,Europa,Europa,2016
+Reino Unido,83560,82837,723,Europa,Europa,2016
+República Tcheca,3313,3308,5,Europa,Europa,2016
+Romênia,2600,2590,10,Europa,Europa,2016
+Rússia,10119,10083,36,Europa,Europa,2016
+Sérvia,1573,1570,3,Europa,Europa,2016
+Suécia,11837,11825,12,Europa,Europa,2016
+Suíça,17406,17228,178,Europa,Europa,2016
+Turquia,2732,2729,3,Europa,Europa,2016
+Ucrânia,3175,3163,12,Europa,Europa,2016
+Outros,3101,3095,6,Europa,Europa,2016
+Austrália,18683,18465,218,Oceania,Oceania,2016
+Nova Zelândia,5871,5808,63,Oceania,Oceania,2016
+Outros,368,366,2,Oceania,Oceania,2016
+Países não especificados,15,15,0,Desconhecido,Oceania,2016
+África do Sul,2790,2650,140,África,África,2017
+Angola,7088,7088,0,África,África,2017
+Cabo Verde,372,371,1,África,África,2017
+Egito,516,514,2,África,África,2017
+Gana,147,147,0,África,África,2017
+Marrocos,3335,3312,23,África,África,2017
+Moçambique,417,417,0,África,África,2017
+Nigéria,176,176,0,África,África,2017
+Quênia,328,328,0,África,África,2017
+Tunísia,661,660,1,África,África,2017
+Outros,1895,1894,1,África,África,2017
+Costa Rica,2880,2878,2,América Central e Caribe,América,2017
+Cuba,772,772,0,América Central e Caribe,América,2017
+El Salvador,811,811,0,América Central e Caribe,América,2017
+Guatemala,1434,1434,0,América Central e Caribe,América,2017
+Haiti,241,241,0,América Central e Caribe,América,2017
+Honduras,595,588,7,América Central e Caribe,América,2017
+Nicarágua,234,233,1,América Central e Caribe,América,2017
+Panamá,3668,3663,5,América Central e Caribe,América,2017
+República Dominicana,628,608,20,América Central e Caribe,América,2017
+Trinidad e Tobago,236,233,3,América Central e Caribe,América,2017
+Outros,451,443,8,América Central e Caribe,América,2017
+Canadá,9113,8138,975,América do Norte,América,2017
+Estados Unidos,135845,132913,2932,América do Norte,América,2017
+México,13617,13198,419,América do Norte,América,2017
+Argentina,452842,436088,16754,América do Sul,América,2017
+Bolívia,935,927,8,América do Sul,América,2017
+Chile,126384,126112,272,América do Sul,América,2017
+Colômbia,33769,33664,105,América do Sul,América,2017
+Equador,6499,6483,16,América do Sul,América,2017
+Guiana,90,89,1,América do Sul,América,2017
+Guiana Francesa,1,1,0,América do Sul,América,2017
+Paraguai,3966,3931,35,América do Sul,América,2017
+Peru,15183,15155,28,América do Sul,América,2017
+Suriname,56,56,0,América do Sul,América,2017
+Uruguai,40590,40157,433,América do Sul,América,2017
+Venezuela,4566,4541,25,América do Sul,América,2017
+Arábia Saudita,270,270,0,Ásia,Ásia,2017
+Bangladesh,119,119,0,Ásia,Ásia,2017
+China,11627,11417,210,Ásia,Ásia,2017
+"China, Hong Kong",847,831,16,Ásia,Ásia,2017
+Cingapura,1545,1523,22,Ásia,Ásia,2017
+Filipinas,1765,1713,52,Ásia,Ásia,2017
+Índia,3712,3688,24,Ásia,Ásia,2017
+Indonésia,502,496,6,Ásia,Ásia,2017
+Irã,847,847,0,Ásia,Ásia,2017
+Israel,7577,7520,57,Ásia,Ásia,2017
+Japão,9464,8542,922,Ásia,Ásia,2017
+Líbano,525,525,0,Ásia,Ásia,2017
+Malásia,1523,1511,12,Ásia,Ásia,2017
+Paquistão,302,302,0,Ásia,Ásia,2017
+República da Coreia,3597,3556,41,Ásia,Ásia,2017
+Síria,195,195,0,Ásia,Ásia,2017
+Tailândia,706,685,21,Ásia,Ásia,2017
+Taiwan,936,905,31,Ásia,Ásia,2017
+Outros,2008,1992,16,Ásia,Ásia,2017
+Alemanha,52196,50782,1414,Europa,Europa,2017
+Áustria,6930,6851,79,Europa,Europa,2017
+Bélgica,6996,6930,66,Europa,Europa,2017
+Bulgária,860,844,16,Europa,Europa,2017
+Croácia,1076,1069,7,Europa,Europa,2017
+Dinamarca,6114,6085,29,Europa,Europa,2017
+Eslováquia,753,751,2,Europa,Europa,2017
+Eslovênia,593,584,9,Europa,Europa,2017
+Espanha,28426,28182,244,Europa,Europa,2017
+Estônia,333,332,1,Europa,Europa,2017
+Finlândia,2215,2187,28,Europa,Europa,2017
+França,78894,78398,496,Europa,Europa,2017
+Grécia,1666,1654,12,Europa,Europa,2017
+Holanda,17187,16960,227,Europa,Europa,2017
+Hungria,1088,1079,9,Europa,Europa,2017
+Irlanda,3967,3908,59,Europa,Europa,2017
+Itália,37683,37022,661,Europa,Europa,2017
+Letônia,396,383,13,Europa,Europa,2017
+Lituânia,594,588,6,Europa,Europa,2017
+Luxemburgo,725,723,2,Europa,Europa,2017
+Noruega,8173,8160,13,Europa,Europa,2017
+Polônia,9813,9771,42,Europa,Europa,2017
+Portugal,41614,41463,151,Europa,Europa,2017
+Reino Unido,69263,68515,748,Europa,Europa,2017
+República Tcheca,1570,1554,16,Europa,Europa,2017
+Romênia,2000,1984,16,Europa,Europa,2017
+Rússia,7333,7252,81,Europa,Europa,2017
+Sérvia,680,676,4,Europa,Europa,2017
+Suécia,7863,7822,41,Europa,Europa,2017
+Suíça,15853,15685,168,Europa,Europa,2017
+Turquia,2651,2635,16,Europa,Europa,2017
+Ucrânia,1657,1623,34,Europa,Europa,2017
+Outros,1462,1434,28,Europa,Europa,2017
+Austrália,12951,11292,1659,Oceania,Oceania,2017
+Nova Zelândia,2832,2446,386,Oceania,Oceania,2017
+Outros,11,11,0,Oceania,Oceania,2017
+Países não especificados,0,0,0,Desconhecido,Oceania,2017
+África do Sul,2816,2660,156,África,África,2018
+Angola,3211,3211,0,África,África,2018
+Cabo Verde,100,99,1,África,África,2018
+Egito,546,541,5,África,África,2018
+Gana,75,75,0,África,África,2018
+Marrocos,2804,2797,7,África,África,2018
+Moçambique,622,622,0,África,África,2018
+Nigéria,347,347,0,África,África,2018
+Quênia,186,175,11,África,África,2018
+Tunísia,706,706,0,África,África,2018
+Outros,1142,1111,31,África,África,2018
+Costa Rica,2841,2833,8,América Central e Caribe,América,2018
+Cuba,615,612,3,América Central e Caribe,América,2018
+El Salvador,877,875,2,América Central e Caribe,América,2018
+Guatemala,1719,1707,12,América Central e Caribe,América,2018
+Haiti,253,252,1,América Central e Caribe,América,2018
+Honduras,632,624,8,América Central e Caribe,América,2018
+Nicarágua,289,281,8,América Central e Caribe,América,2018
+Panamá,2466,2457,9,América Central e Caribe,América,2018
+República Dominicana,1068,1056,12,América Central e Caribe,América,2018
+Trinidad e Tobago,283,281,2,América Central e Caribe,América,2018
+Outros,498,473,25,América Central e Caribe,América,2018
+Canadá,10755,10145,610,América do Norte,América,2018
+Estados Unidos,119864,117738,2126,América do Norte,América,2018
+México,11370,11214,156,América do Norte,América,2018
+Argentina,451112,417605,33507,América do Sul,América,2018
+Bolívia,1454,1415,39,América do Sul,América,2018
+Chile,154445,153905,540,América do Sul,América,2018
+Colômbia,36371,36271,100,América do Sul,América,2018
+Equador,7043,7000,43,América do Sul,América,2018
+Guiana,87,87,0,América do Sul,América,2018
+Guiana Francesa,0,0,0,América do Sul,América,2018
+Paraguai,5047,4962,85,América do Sul,América,2018
+Peru,24258,24182,76,América do Sul,América,2018
+Suriname,25,25,0,América do Sul,América,2018
+Uruguai,34806,32630,2176,América do Sul,América,2018
+Venezuela,5477,5450,27,América do Sul,América,2018
+Arábia Saudita,401,401,0,Ásia,Ásia,2018
+Bangladesh,209,209,0,Ásia,Ásia,2018
+China,8252,8198,54,Ásia,Ásia,2018
+"China, Hong Kong",1044,1038,6,Ásia,Ásia,2018
+Cingapura,1333,1320,13,Ásia,Ásia,2018
+Filipinas,1227,1173,54,Ásia,Ásia,2018
+Índia,3764,3678,86,Ásia,Ásia,2018
+Indonésia,526,486,40,Ásia,Ásia,2018
+Irã,313,313,0,Ásia,Ásia,2018
+Israel,11107,10989,118,Ásia,Ásia,2018
+Japão,4655,4641,14,Ásia,Ásia,2018
+Líbano,557,557,0,Ásia,Ásia,2018
+Malásia,1367,1358,9,Ásia,Ásia,2018
+Paquistão,386,386,0,Ásia,Ásia,2018
+República da Coreia,2918,2909,9,Ásia,Ásia,2018
+Síria,117,117,0,Ásia,Ásia,2018
+Tailândia,898,892,6,Ásia,Ásia,2018
+Taiwan,857,853,4,Ásia,Ásia,2018
+Outros,2792,2783,9,Ásia,Ásia,2018
+Alemanha,49744,48817,927,Europa,Europa,2018
+Áustria,6064,5956,108,Europa,Europa,2018
+Bélgica,6689,6609,80,Europa,Europa,2018
+Bulgária,924,903,21,Europa,Europa,2018
+Croácia,644,630,14,Europa,Europa,2018
+Dinamarca,4289,4194,95,Europa,Europa,2018
+Eslováquia,873,865,8,Europa,Europa,2018
+Eslovênia,554,547,7,Europa,Europa,2018
+Espanha,21757,21380,377,Europa,Europa,2018
+Estônia,431,431,0,Europa,Europa,2018
+Finlândia,2178,2174,4,Europa,Europa,2018
+França,70005,69650,355,Europa,Europa,2018
+Grécia,1522,1493,29,Europa,Europa,2018
+Holanda,14218,13987,231,Europa,Europa,2018
+Hungria,1328,1304,24,Europa,Europa,2018
+Irlanda,5694,5653,41,Europa,Europa,2018
+Itália,38854,37924,930,Europa,Europa,2018
+Letônia,301,298,3,Europa,Europa,2018
+Lituânia,566,555,11,Europa,Europa,2018
+Luxemburgo,304,299,5,Europa,Europa,2018
+Noruega,6832,6738,94,Europa,Europa,2018
+Polônia,8515,8463,52,Europa,Europa,2018
+Portugal,28645,28554,91,Europa,Europa,2018
+Reino Unido,39915,38985,930,Europa,Europa,2018
+República Tcheca,1797,1787,10,Europa,Europa,2018
+Romênia,2000,1963,37,Europa,Europa,2018
+Rússia,7028,6952,76,Europa,Europa,2018
+Sérvia,720,711,9,Europa,Europa,2018
+Suécia,8136,8090,46,Europa,Europa,2018
+Suíça,15033,14828,205,Europa,Europa,2018
+Turquia,1789,1785,4,Europa,Europa,2018
+Ucrânia,1720,1691,29,Europa,Europa,2018
+Outros,1398,1326,72,Europa,Europa,2018
+Austrália,11356,11041,315,Oceania,Oceania,2018
+Nova Zelândia,2552,2459,93,Oceania,Oceania,2018
+Outros,26,24,2,Oceania,Oceania,2018
+Países não especificados,8,8,0,Desconhecido,Oceania,2018
+África do Sul,3241,3129,112,África,África,2019
+Angola,2440,2440,0,África,África,2019
+Cabo Verde,73,73,0,África,África,2019
+Egito,583,579,4,África,África,2019
+Gana,65,65,0,África,África,2019
+Marrocos,2630,2630,0,África,África,2019
+Moçambique,1015,1011,4,África,África,2019
+Nigéria,313,313,0,África,África,2019
+Quênia,103,92,11,África,África,2019
+Tunísia,805,802,3,África,África,2019
+Outros,1162,1151,11,África,África,2019
+Costa Rica,1931,1913,18,América Central e Caribe,América,2019
+Cuba,432,427,5,América Central e Caribe,América,2019
+El Salvador,602,597,5,América Central e Caribe,América,2019
+Guatemala,1173,1166,7,América Central e Caribe,América,2019
+Haiti,132,132,0,América Central e Caribe,América,2019
+Honduras,511,503,8,América Central e Caribe,América,2019
+Nicarágua,272,264,8,América Central e Caribe,América,2019
+Panamá,2451,2446,5,América Central e Caribe,América,2019
+República Dominicana,537,536,1,América Central e Caribe,América,2019
+Trinidad e Tobago,212,210,2,América Central e Caribe,América,2019
+Outros,463,429,34,América Central e Caribe,América,2019
+Canadá,13829,13524,305,América do Norte,América,2019
+Estados Unidos,118629,116984,1645,América do Norte,América,2019
+México,8543,8121,422,América do Norte,América,2019
+Argentina,405301,367042,38259,América do Sul,América,2019
+Bolívia,2052,1940,112,América do Sul,América,2019
+Chile,154691,153741,950,América do Sul,América,2019
+Colômbia,29173,29007,166,América do Sul,América,2019
+Equador,5786,5750,36,América do Sul,América,2019
+Guiana,64,61,3,América do Sul,América,2019
+Guiana Francesa,0,0,0,América do Sul,América,2019
+Paraguai,4474,4357,117,América do Sul,América,2019
+Peru,25233,25150,83,América do Sul,América,2019
+Suriname,16,16,0,América do Sul,América,2019
+Uruguai,37317,33106,4211,América do Sul,América,2019
+Venezuela,7049,6965,84,América do Sul,América,2019
+Arábia Saudita,442,442,0,Ásia,Ásia,2019
+Bangladesh,104,104,0,Ásia,Ásia,2019
+China,8745,8574,171,Ásia,Ásia,2019
+"China, Hong Kong",727,694,33,Ásia,Ásia,2019
+Cingapura,1016,988,28,Ásia,Ásia,2019
+Filipinas,1427,1373,54,Ásia,Ásia,2019
+Índia,3846,3782,64,Ásia,Ásia,2019
+Indonésia,818,794,24,Ásia,Ásia,2019
+Irã,156,156,0,Ásia,Ásia,2019
+Israel,8608,8472,136,Ásia,Ásia,2019
+Japão,4913,4074,839,Ásia,Ásia,2019
+Líbano,484,480,4,Ásia,Ásia,2019
+Malásia,1164,1150,14,Ásia,Ásia,2019
+Paquistão,269,269,0,Ásia,Ásia,2019
+República da Coreia,4291,4273,18,Ásia,Ásia,2019
+Síria,103,103,0,Ásia,Ásia,2019
+Tailândia,677,669,8,Ásia,Ásia,2019
+Taiwan,852,741,111,Ásia,Ásia,2019
+Outros,2203,2182,21,Ásia,Ásia,2019
+Alemanha,44272,43827,445,Europa,Europa,2019
+Áustria,5092,5010,82,Europa,Europa,2019
+Bélgica,6350,6288,62,Europa,Europa,2019
+Bulgária,1100,1075,25,Europa,Europa,2019
+Croácia,1005,994,11,Europa,Europa,2019
+Dinamarca,5076,5043,33,Europa,Europa,2019
+Eslováquia,957,941,16,Europa,Europa,2019
+Eslovênia,425,417,8,Europa,Europa,2019
+Espanha,21126,20659,467,Europa,Europa,2019
+Estônia,522,514,8,Europa,Europa,2019
+Finlândia,1851,1823,28,Europa,Europa,2019
+França,72260,71644,616,Europa,Europa,2019
+Grécia,1940,1915,25,Europa,Europa,2019
+Holanda,14072,13944,128,Europa,Europa,2019
+Hungria,2495,2482,13,Europa,Europa,2019
+Irlanda,7175,7140,35,Europa,Europa,2019
+Itália,36485,35378,1107,Europa,Europa,2019
+Letônia,513,509,4,Europa,Europa,2019
+Lituânia,770,760,10,Europa,Europa,2019
+Luxemburgo,440,440,0,Europa,Europa,2019
+Noruega,7141,7111,30,Europa,Europa,2019
+Polônia,8080,8042,38,Europa,Europa,2019
+Portugal,31811,31677,134,Europa,Europa,2019
+Reino Unido,49443,48217,1226,Europa,Europa,2019
+República Tcheca,2784,2773,11,Europa,Europa,2019
+Romênia,3002,2927,75,Europa,Europa,2019
+Rússia,9734,9524,210,Europa,Europa,2019
+Sérvia,999,969,30,Europa,Europa,2019
+Suécia,7898,7817,81,Europa,Europa,2019
+Suíça,13244,13085,159,Europa,Europa,2019
+Turquia,1312,1197,115,Europa,Europa,2019
+Ucrânia,2103,2038,65,Europa,Europa,2019
+Outros,1688,1649,39,Europa,Europa,2019
+Austrália,13148,12929,219,Oceania,Oceania,2019
+Nova Zelândia,1764,1734,30,Oceania,Oceania,2019
+Outros,35,31,4,Oceania,Oceania,2019
+Países não especificados,7,7,0,Desconhecido,Oceania,2019
